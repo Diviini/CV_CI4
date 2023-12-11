@@ -1,0 +1,50 @@
+CRITICAL - 2023-11-14 08:44:46 --> The route for "/contact" cannot be found.
+in SYSTEMPATH/HTTP/RedirectResponse.php on line 62.
+ 1 SYSTEMPATH/HTTP/RedirectResponse.php(62): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+ 2 SYSTEMPATH/Common.php(878): CodeIgniter\HTTP\RedirectResponse->route()
+ 3 APPPATH/Controllers/Contact.php(38): redirect()
+ 4 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Contact->contactMail()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/etudiant/lr211215/TP/s5/r5.05_prog_avancee/framework/CV_CI4/public/index.php')
+CRITICAL - 2023-11-14 08:45:21 --> The route for "/contact" cannot be found.
+in SYSTEMPATH/HTTP/RedirectResponse.php on line 62.
+ 1 SYSTEMPATH/HTTP/RedirectResponse.php(62): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+ 2 SYSTEMPATH/Common.php(878): CodeIgniter\HTTP\RedirectResponse->route()
+ 3 APPPATH/Controllers/Contact.php(38): redirect()
+ 4 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Contact->contactMail()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/etudiant/lr211215/TP/s5/r5.05_prog_avancee/framework/CV_CI4/public/index.php')
+CRITICAL - 2023-11-14 08:45:52 --> The route for "/contact" cannot be found.
+in SYSTEMPATH/HTTP/RedirectResponse.php on line 62.
+ 1 SYSTEMPATH/HTTP/RedirectResponse.php(62): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+ 2 SYSTEMPATH/Common.php(878): CodeIgniter\HTTP\RedirectResponse->route()
+ 3 APPPATH/Controllers/Contact.php(39): redirect()
+ 4 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Contact->contactMail()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/etudiant/lr211215/TP/s5/r5.05_prog_avancee/framework/CV_CI4/public/index.php')
+CRITICAL - 2023-11-14 08:45:56 --> The route for "/contact" cannot be found.
+in SYSTEMPATH/HTTP/RedirectResponse.php on line 62.
+ 1 SYSTEMPATH/HTTP/RedirectResponse.php(62): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+ 2 SYSTEMPATH/Common.php(878): CodeIgniter\HTTP\RedirectResponse->route()
+ 3 APPPATH/Controllers/Contact.php(39): redirect()
+ 4 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Contact->contactMail()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/etudiant/lr211215/TP/s5/r5.05_prog_avancee/framework/CV_CI4/public/index.php')
+CRITICAL - 2023-11-14 08:46:08 --> The route for "/contact" cannot be found.
+in SYSTEMPATH/HTTP/RedirectResponse.php on line 62.
+ 1 SYSTEMPATH/HTTP/RedirectResponse.php(62): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute()
+ 2 SYSTEMPATH/Common.php(878): CodeIgniter\HTTP\RedirectResponse->route()
+ 3 APPPATH/Controllers/Contact.php(34): redirect()
+ 4 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Contact->contactMail()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/etudiant/lr211215/TP/s5/r5.05_prog_avancee/framework/CV_CI4/public/index.php')

@@ -1,0 +1,503 @@
+ERROR - 2023-11-20 09:42:52 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-20 09:42:52 --> 220 smtp.gmail.com ESMTP k18-20020a05600c0b5200b004065e235417sm16719024wmr.21 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 220 2.0.0 Ready to start TLS
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials k18-20020a05600c0b5200b004065e235417sm16719024wmr.21 - gsmtp
+
+ERROR - 2023-11-20 09:45:05 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-20 09:45:06 --> 220 smtp.gmail.com ESMTP x13-20020a05600c2a8d00b0040a507f546fsm16975215wmd.8 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 220 2.0.0 Ready to start TLS
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials x13-20020a05600c2a8d00b0040a507f546fsm16975215wmd.8 - gsmtp
+
+ERROR - 2023-11-20 09:47:53 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-20 09:47:53 --> 220 smtp.gmail.com ESMTP dh18-20020a0560000a9200b00332cb1bcd01sm775285wrb.86 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 220 2.0.0 Ready to start TLS
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials dh18-20020a0560000a9200b00332cb1bcd01sm775285wrb.86 - gsmtp
+
+ERROR - 2023-11-20 09:49:12 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-20 09:49:12 --> 220 smtp.gmail.com ESMTP v11-20020adfe28b000000b0032d09f7a713sm10668515wri.18 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 220 2.0.0 Ready to start TLS
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials v11-20020adfe28b000000b0032d09f7a713sm10668515wri.18 - gsmtp
+
+ERROR - 2023-11-20 09:49:27 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-20 09:49:27 --> 220 smtp.gmail.com ESMTP d1-20020a5d5381000000b0032f7f4d008dsm10617659wrv.20 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 220 2.0.0 Ready to start TLS
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials d1-20020a5d5381000000b0032f7f4d008dsm10617659wrv.20 - gsmtp
+
+ERROR - 2023-11-20 09:51:34 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-20 09:51:34 --> 220 smtp.gmail.com ESMTP u25-20020a7bcb19000000b00405391f485fsm12596346wmj.41 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 220 2.0.0 Ready to start TLS
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials u25-20020a7bcb19000000b00405391f485fsm12596346wmj.41 - gsmtp
+
+ERROR - 2023-11-20 09:58:36 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-20 09:58:36 --> 220 smtp.gmail.com ESMTP l6-20020a5d5606000000b00331698cb263sm10446253wrv.103 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials l6-20020a5d5606000000b00331698cb263sm10446253wrv.103 - gsmtp
+
+ERROR - 2023-11-20 10:06:40 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-20 10:06:40 --> 220 smtp.gmail.com ESMTP n21-20020a7bc5d5000000b003fbe4cecc3bsm16875199wmk.16 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 220 2.0.0 Ready to start TLS
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials n21-20020a7bc5d5000000b003fbe4cecc3bsm16875199wmk.16 - gsmtp
+
+ERROR - 2023-11-20 10:10:27 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-20 10:10:27 --> 220 smtp.gmail.com ESMTP n18-20020a05600c3b9200b00407efbc4361sm17696490wms.9 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 220 2.0.0 Ready to start TLS
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials n18-20020a05600c3b9200b00407efbc4361sm17696490wms.9 - gsmtp
+
+ERROR - 2023-11-20 10:12:29 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-20 10:12:29 --> 220 smtp.gmail.com ESMTP r15-20020a5d6c6f000000b00332cb17f87csm862640wrz.5 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 220 2.0.0 Ready to start TLS
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials r15-20020a5d6c6f000000b00332cb17f87csm862640wrz.5 - gsmtp
+
+ERROR - 2023-11-20 10:12:29 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-20 10:12:29 --> 220 smtp.gmail.com ESMTP r15-20020a5d6c6f000000b00332cb17f87csm862640wrz.5 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 220 2.0.0 Ready to start TLS
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials r15-20020a5d6c6f000000b00332cb17f87csm862640wrz.5 - gsmtp
+
+Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials r15-20020a5d6c6f000000b00332cb17f87csm862640wrz.5 - gsmtp
+
+CRITICAL - 2023-11-20 10:13:51 --> Call to a member function initialize() on null
+in APPPATH/Controllers/Contact.php on line 50.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Contact->contactMail()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/etudiant/lr211215/TP/s5/r5.05_prog_avancee/framework/CV_CI4/public/index.php')
+CRITICAL - 2023-11-20 10:14:45 --> Call to a member function initialize() on null
+in APPPATH/Controllers/Contact.php on line 50.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Contact->contactMail()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/etudiant/lr211215/TP/s5/r5.05_prog_avancee/framework/CV_CI4/public/index.php')
+CRITICAL - 2023-11-20 10:17:42 --> Call to a member function initialize() on null
+in APPPATH/Controllers/Contact.php on line 49.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Contact->contactMail()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/etudiant/lr211215/TP/s5/r5.05_prog_avancee/framework/CV_CI4/public/index.php')
+CRITICAL - 2023-11-20 10:18:12 --> Call to a member function initialize() on null
+in APPPATH/Controllers/Contact.php on line 49.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Contact->contactMail()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/etudiant/lr211215/TP/s5/r5.05_prog_avancee/framework/CV_CI4/public/index.php')
+CRITICAL - 2023-11-20 10:21:06 --> Call to a member function initialize() on null
+in APPPATH/Controllers/Contact.php on line 49.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Contact->contactMail()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/etudiant/lr211215/TP/s5/r5.05_prog_avancee/framework/CV_CI4/public/index.php')
+CRITICAL - 2023-11-20 10:21:17 --> Call to a member function initialize() on null
+in APPPATH/Controllers/Contact.php on line 49.
+ 1 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Contact->contactMail()
+ 2 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/etudiant/lr211215/TP/s5/r5.05_prog_avancee/framework/CV_CI4/public/index.php')
+ERROR - 2023-11-20 10:23:25 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-20 10:23:25 --> 220 smtp.gmail.com ESMTP p22-20020a05600c1d9600b0040b1a3c83b6sm8080647wms.40 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 220 2.0.0 Ready to start TLS
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials p22-20020a05600c1d9600b0040b1a3c83b6sm8080647wms.40 - gsmtp
+
+ERROR - 2023-11-20 10:23:51 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-20 10:23:51 --> 220 smtp.gmail.com ESMTP n21-20020a7bc5d5000000b003fbe4cecc3bsm16920591wmk.16 - gsmtp
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-STARTTLS
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+starttls: 220 2.0.0 Ready to start TLS
+
+hello: 250-smtp.gmail.com at your service, [194.254.109.180]
+250-SIZE 35882577
+250-8BITMIME
+250-AUTH LOGIN PLAIN XOAUTH2 PLAIN-CLIENTTOKEN OAUTHBEARER XOAUTH
+250-ENHANCEDSTATUSCODES
+250-PIPELINING
+250-CHUNKING
+250 SMTPUTF8
+
+Failed to authenticate password. Error: 535-5.7.8 Username and Password not accepted. Learn more at
+535 5.7.8  https://support.google.com/mail/?p=BadCredentials n21-20020a7bc5d5000000b003fbe4cecc3bsm16920591wmk.16 - gsmtp
+
+ERROR - 2023-11-20 10:34:31 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-20 10:34:31 --> 220 smtp.mail.yahoo.com ESMTP ready
+
+hello: 250-hermes--production-ir2-6755f9ff7c-g8vxj Hello localhost [194.254.109.180])
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-SIZE 41697280
+250 STARTTLS
+
+starttls: 220 2.0.0 Ready to start TLS
+
+hello: 250-hermes--production-ir2-6755f9ff7c-g8vxj Hello localhost [194.254.109.180])
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-SIZE 41697280
+250 AUTH PLAIN LOGIN XOAUTH2 OAUTHBEARER
+
+Failed to authenticate password. Error: 535 5.7.0 (#AUTH005) Too many bad auth attempts.
+
+ERROR - 2023-11-20 10:34:31 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-20 10:34:31 --> 220 smtp.mail.yahoo.com ESMTP ready
+
+hello: 250-hermes--production-ir2-6755f9ff7c-g8vxj Hello localhost [194.254.109.180])
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-SIZE 41697280
+250 STARTTLS
+
+starttls: 220 2.0.0 Ready to start TLS
+
+hello: 250-hermes--production-ir2-6755f9ff7c-g8vxj Hello localhost [194.254.109.180])
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-SIZE 41697280
+250 AUTH PLAIN LOGIN XOAUTH2 OAUTHBEARER
+
+Failed to authenticate password. Error: 535 5.7.0 (#AUTH005) Too many bad auth attempts.
+
+Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+Failed to send AUTH LOGIN command. Error: 
+ERROR - 2023-11-20 10:34:51 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-20 10:34:51 --> 220 smtp.mail.yahoo.com ESMTP ready
+
+hello: 250-hermes--production-ir2-6755f9ff7c-zgkjq Hello localhost [194.254.109.180])
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-SIZE 41697280
+250 STARTTLS
+
+starttls: 220 2.0.0 Ready to start TLS
+
+hello: 250-hermes--production-ir2-6755f9ff7c-zgkjq Hello localhost [194.254.109.180])
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-SIZE 41697280
+250 AUTH PLAIN LOGIN XOAUTH2 OAUTHBEARER
+
+Failed to authenticate password. Error: 535 5.7.0 (#AUTH005) Too many bad auth attempts.
+
+ERROR - 2023-11-20 10:34:51 --> Email: Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+ERROR - 2023-11-20 10:34:51 --> 220 smtp.mail.yahoo.com ESMTP ready
+
+hello: 250-hermes--production-ir2-6755f9ff7c-zgkjq Hello localhost [194.254.109.180])
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-SIZE 41697280
+250 STARTTLS
+
+starttls: 220 2.0.0 Ready to start TLS
+
+hello: 250-hermes--production-ir2-6755f9ff7c-zgkjq Hello localhost [194.254.109.180])
+250-PIPELINING
+250-ENHANCEDSTATUSCODES
+250-8BITMIME
+250-SIZE 41697280
+250 AUTH PLAIN LOGIN XOAUTH2 OAUTHBEARER
+
+Failed to authenticate password. Error: 535 5.7.0 (#AUTH005) Too many bad auth attempts.
+
+Unable to send email using SMTP. Your server might not be configured to send mail using this method.
+Failed to send AUTH LOGIN command. Error: 
+CRITICAL - 2023-11-20 16:16:02 --> Call to a member function setFrom() on null
+in APPPATH\Controllers\Contact.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Contact->contactMail()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contact))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-20 16:17:11 --> Call to a member function setFrom() on null
+in APPPATH\Controllers\Contact.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Contact->contactMail()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contact))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-20 16:18:30 --> Call to a member function setFrom() on null
+in APPPATH\Controllers\Contact.php on line 37.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Contact->contactMail()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contact))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-20 16:19:40 --> Call to a member function send() on null
+in APPPATH\Controllers\Contact.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Contact->contactMail()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contact))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-20 16:20:27 --> Call to a member function send() on null
+in APPPATH\Controllers\Contact.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Contact->contactMail()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contact))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-20 16:20:54 --> Call to a member function send() on null
+in APPPATH\Controllers\Contact.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Contact->contactMail()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Contact))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')

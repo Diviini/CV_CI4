@@ -1,0 +1,10 @@
+CRITICAL - 2023-11-29 14:15:31 --> syntax error, unexpected 'echo' (T_ECHO)
+in APPPATH/Views/Projet.php on line 5.
+ 1 SYSTEMPATH/View/View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH/Common.php(1190): CodeIgniter\View\View->render()
+ 3 APPPATH/Controllers/Projet.php(45): view()
+ 4 SYSTEMPATH/CodeIgniter.php(942): App\Controllers\Projet->index()
+ 5 SYSTEMPATH/CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(47): require_once('/home/etudiant/lr211215/TP/s5/r5.05_prog_avancee/framework/CV_CI4/public/index.php')

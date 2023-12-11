@@ -1,0 +1,241 @@
+CRITICAL - 2023-11-28 17:32:32 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:35:01 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:35:02 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:35:02 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:35:02 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:35:21 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:35:22 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:35:22 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:35:23 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:36:02 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:37:41 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:39:04 --> Undefined variable $data
+in APPPATH\Views\Test.php on line 4.
+ 1 APPPATH\Views\Test.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\app\\Views\\Test.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\app\\Views\\Test.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Test', [], true)
+ 5 APPPATH\Controllers\Projet.php(14): view('Test', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:39:06 --> Undefined variable $data
+in APPPATH\Views\Test.php on line 4.
+ 1 APPPATH\Views\Test.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\app\\Views\\Test.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\app\\Views\\Test.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Test', [], true)
+ 5 APPPATH\Controllers\Projet.php(14): view('Test', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:40:43 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:41:03 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:43:32 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:43:32 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:43:33 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:43:36 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:43:43 --> Undefined variable $id
+in APPPATH\Controllers\Projet.php on line 9.
+ 1 APPPATH\Controllers\Projet.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\app\\Controllers\\Projet.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:43:44 --> Undefined variable $id
+in APPPATH\Controllers\Projet.php on line 9.
+ 1 APPPATH\Controllers\Projet.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\app\\Controllers\\Projet.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:43:45 --> Undefined variable $id
+in APPPATH\Controllers\Projet.php on line 9.
+ 1 APPPATH\Controllers\Projet.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\app\\Controllers\\Projet.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:43:47 --> Undefined variable $id
+in APPPATH\Controllers\Projet.php on line 9.
+ 1 APPPATH\Controllers\Projet.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\app\\Controllers\\Projet.php', 9)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:43:53 --> is_numeric() expects exactly 1 argument, 0 given
+in APPPATH\Controllers\Projet.php on line 9.
+ 1 APPPATH\Controllers\Projet.php(9): is_numeric()
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:56:49 --> view(): Argument #2 ($data) must be of type array, string given, called in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\app\Controllers\Projet.php on line 14
+in SYSTEMPATH\Common.php on line 1178.
+ 1 APPPATH\Controllers\Projet.php(14): view('Test', '$1')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index('$1')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:56:50 --> view(): Argument #2 ($data) must be of type array, string given, called in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\app\Controllers\Projet.php on line 14
+in SYSTEMPATH\Common.php on line 1178.
+ 1 APPPATH\Controllers\Projet.php(14): view('Test', '$1')
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index('$1')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:57:37 --> Undefined variable $data
+in APPPATH\Views\Test.php on line 4.
+ 1 APPPATH\Views\Test.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\app\\Views\\Test.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\app\\Views\\Test.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Test', [], true)
+ 5 APPPATH\Controllers\Projet.php(14): view('Test', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index('$1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:57:44 --> Undefined variable $data
+in APPPATH\Views\Test.php on line 4.
+ 1 APPPATH\Views\Test.php(4): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\app\\Views\\Test.php', 4)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\app\\Views\\Test.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Test', [], true)
+ 5 APPPATH\Controllers\Projet.php(14): view('Test', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index('$1')
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 17:58:11 --> Undefined constant "id"
+in APPPATH\Views\Test.php on line 4.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('Test', [], true)
+ 4 APPPATH\Controllers\Projet.php(14): view('Test', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index('$1')
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
+CRITICAL - 2023-11-28 18:00:52 --> Too few arguments to function App\Controllers\Projet::index(), 0 passed in C:\Users\divin\Desktop\Ecole\Matieres\s5\prog_av\frameworkPHP\CV_CI4\system\CodeIgniter.php on line 942 and exactly 1 expected
+in APPPATH\Controllers\Projet.php on line 7.
+ 1 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Projet->index()
+ 2 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Projet))
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\divin\\Desktop\\Ecole\\Matieres\\s5\\prog_av\\frameworkPHP\\CV_CI4\\public\\index.php')
